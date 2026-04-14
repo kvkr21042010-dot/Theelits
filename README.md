@@ -11,12 +11,10 @@
 3. Run the app:
    `npm run dev`
    
-# FULL INSTALLATION STEPS : 
+# FULL INSTALLATION STEPS :
 
 
-
-
-git clone https://github.com/kvkr21042010-dot/Theelites 
+git clone https://github.com/kvkr21042010-dot/The_elites.git
 
 cd Theelites
 
